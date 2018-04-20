@@ -1,4 +1,4 @@
-declare module "mock-promises"
+declare module "@mindbox/mock-promises"
 {
 	function getOriginalPromise(): any;
 	function getMockPromise(promise: any): any;
