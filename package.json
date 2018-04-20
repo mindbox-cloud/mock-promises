@@ -1,10 +1,11 @@
 {
-  "name": "mock-promises",
-  "version": "0.8.2",
+  "name": "@mindbox/mock-promises",
+  "version": "0.8.3",
   "author": "Charles Hansen <chansen87@gmail.com>",
   "license": "MIT",
   "description": "Library for mocking promises in specs",
   "main": "lib/mock-promises.js",
+  "types": "./lib/mock-promises.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/charleshansen/mock-promises.git"
